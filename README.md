@@ -1,4 +1,4 @@
-The-Cashier_Apps
+
 
 Aplikasi kasir untuk mendata barang atau jasa yang dibeli oleh pembeli.
 
